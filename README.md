@@ -1,1 +1,29 @@
 # wat-thachang
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>วัดท่าช้าง</title>
+<style>
+body {font-family:sans-serif; margin:0; background:#f5f5f5;}
+header {background:#8B0000; color:white; padding:20px; text-align:center;}
+.container {padding:20px; background:white; margin:20px;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>วัดท่าช้าง</h1>
+<p>จังหวัดพิจิตร</p>
+</header>
+
+<div class="container">
+<h2>เกี่ยวกับวัด</h2>
+<p>วัดท่าช้าง เป็นวัดที่มีความสงบร่มรื่น เหมาะแก่การปฏิบัติธรรม</p>
+
+<h2>รูปภาพ</h2>
+<img src="https://via.placeholder.com/800x400" width="100%">
+</div>
+
+</body>
+</html>
